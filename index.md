@@ -76,11 +76,11 @@
     <p class="p3">You may be addicted?</p>
     <p class="abouta1">about-Addiction is one of this society's worst problems. It can ruin lives and families. It is one of the most atrocious things that can happen to someone. I would just like to make something clear before we start. Not all addictions are bad but for this writing activity, I will be talking about the most detrimental of cases and topics. For example gambling, addiction to phones, smoking/vaping, and drugs. 
     </p>
-    <a class="a1" href="http://127.0.0.1:5500/home/artecal1.html">Check it out </a>
+    <a class="a1" href="./artecal1.html">Check it out </a>
     <img class="img2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Napoleon_I_of_France_by_Andrea_Appiani.jpg/480px-Napoleon_I_of_France_by_Andrea_Appiani.jpg" alt="err">
     <p class="p5">Est-ce que Napoléon était un tyran impitoyable?</p>
     <p class="abouta1">Est-ce que vous pensez que Napoléon était un tyran ou un héros incroyable? Dans cet article on va voir les deux points de vue et vous pouvez choisir quelle côte vous êtes. Pour ou Contre. On va voir. </p>
-    <a class="a1" href="http://127.0.0.1:5500/home/artecal2.html">Check it out</a>
+    <a class="a1" href="./artecal2.html">Check it out</a>
     <h3 class="h2">Storys</h3>
 
   
@@ -90,7 +90,7 @@
     <img src="https://yt3.ggpht.com/G87Lj5yB1xvNwK709CvC8quYTgV2A2kRs9PreipkaqzKbWsXGDE4el6iOLgn-g0SFNwdsa4OHQ=s88-c-k-c0x00ffffff-no-rj" alt="Err 404">
     <p class="username">@goose6521</p>
     <p>Ground Zero is a new web page.</p>
-    <a href="http://127.0.0.1:5500/home/aboutT1.html">About team member </a> 
+    <a href="./aboutT1.html">About team member </a> 
     
   </body>
 </html>
