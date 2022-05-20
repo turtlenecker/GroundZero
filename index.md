@@ -1,4 +1,3 @@
-(https://github.com/turtlenecker/GroundZero/settings/pages)
 <!DOCTYPE html>
 <html lang="en">
   <head>
